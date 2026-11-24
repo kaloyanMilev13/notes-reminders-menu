@@ -1,0 +1,19 @@
+{
+  "uuid": "notes-reminders-menu@kalalinux",
+  "name": "Notes & Reminders in Clock Menu",
+  "description": "Notes and reminders (with dates, repeats, snooze and editing) inside the dropdown that opens when you click the clock.",
+  "url": "https://github.com/kaloyanMilev13/notes-reminders-menu",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "session-modes": [
+    "user",
+    "unlock-dialog"
+  ],
+  "version": 2
+}
