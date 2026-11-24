@@ -22,7 +22,7 @@ GNOME Shell **46, 47, 48, 49, 50 or 51**.
 
 > GNOME 45 is not supported because the notification API it uses changed in 46.
 
-Tested on: GNOME Shell _(fill in your version)_.
+Tested on: GNOME Shell 51.1.
 
 ## Installation
 
