@@ -2,7 +2,7 @@
 
 A GNOME Shell extension that adds a notes and reminders list to the dropdown that opens when you click the clock. Type a note, or start it with a time and it becomes a reminder that pops up as a normal GNOME notification.
 
-<!-- Add a screenshot here: ![Screenshot](screenshot.png) -->
+![Screenshot](screenshot.png)
 
 ## Features
 
